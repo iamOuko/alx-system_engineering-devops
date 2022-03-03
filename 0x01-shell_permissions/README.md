@@ -1,4 +1,6 @@
-Shell Scripting Permissions Exercises
+Shell Scripts Permissions
+
+
 su betty ===  switches the current user to the user betty.
 
 whoami === Print the effective username of current user. 
